@@ -40,10 +40,6 @@ This Jupyter Notebook sets up the environment for running the project. It instal
 
 Another Jupyter Notebook that demonstrates how to colorize a video using the DeOldify model and generate captions for the video frames using the image captioning pipeline.
 
-### 5. `README.md`
-
-This file provides an overview of the project, explains each file's role, and outlines how to set up the environment and run the project. It serves as a guide for developers and users to understand and use the project effectively.
-
 ## Project Idea
 
 The core idea of the project is to leverage AI capabilities to:
